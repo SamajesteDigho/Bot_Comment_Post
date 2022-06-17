@@ -1,0 +1,17 @@
+The following librairies are important for the execution of this script
+
+*** Compulsory
+	- facebook
+	- nltk
+	- pandas
+	- numpy
+	
+
+*** Optional
+	- tensorflow
+	- sklearn
+
+
+NB: For esay execution of this code, better use a virtual environment
+	or open the main2.py file in the spyder IDE and with the required
+	libraries installed, run it there.
